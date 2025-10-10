@@ -1,0 +1,6 @@
+gestore dimìpedndenze di fgjava per creare testare e rilasciare codice tramite pom, che contiene ntutte le info che legge il file e lo 
+File .m2
+Procedure e struttura maven
+Dipendesse varie
+Maven macchina diverso maven intellij quindi attenzione 
+
